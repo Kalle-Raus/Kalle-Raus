@@ -5,6 +5,7 @@
 - 📫 How to reach me: 
 1. LinkedIn: https://www.linkedin.com/in/kalle-raus-32ba781b/
 2. Twitter: https://twitter.com/KalleRaus
+3. Check out this demo chat app I created in React + Redux: https://chat-app-opal.vercel.app/
 
 <!--
 **Kalle-Raus/Kalle-Raus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
