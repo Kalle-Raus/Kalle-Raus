@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I'll help you set up your next SaaS application with React.js/Redux and Node.js
-- 👯 I’m looking to collaborate with other front and backend freelancers on projects
+- 🔭 Working on an AI startup https://portraitphoto.ai
 - 📫 How to reach me: 
 1. LinkedIn: https://www.linkedin.com/in/kalle-raus-32ba781b/
 2. Twitter: https://twitter.com/KalleRaus
-3. Check out this demo chat app I created in React + Redux: https://chat-app-opal.vercel.app/
 
 <!--
 **Kalle-Raus/Kalle-Raus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
