@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Working on an AI startup https://portraitphoto.ai
+- 🔭 Working on a AI stock trading system startup [https://getundiluted.com](https://getundiluted.com/)
 - 📫 How to reach me: 
 1. LinkedIn: https://www.linkedin.com/in/kalle-raus-32ba781b/
 2. Twitter: https://twitter.com/KalleRaus
